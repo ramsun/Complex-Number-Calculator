@@ -1,10 +1,5 @@
 /*
 Ramamurthy Sundar
-student id: 00667077
-netid: rsundar
-CPS 272 - Machine Problem 1
-9/12/2018
-
 main.cpp
 
 This is a complex number calculator.  The source file will ask you to enter 2 complex numbers,
