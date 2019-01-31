@@ -1,10 +1,5 @@
 /*
 Ramamurthy Sundar
-student id: 00667077
-netid: rsundar
-CPS 272 - Machine Problem 1
-9/12/2018
-
 class.cpp
 
 This file is the implementation of  the complex class.  
